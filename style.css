@@ -1,0 +1,14 @@
+img{
+    margin: 1%;
+    width: 150px;
+}
+
+.details{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h3{
+    text-decoration: underline;
+}
